@@ -1,0 +1,183 @@
+
+/* Colors */
+.firsth1 {
+    color:red;
+    text-align:center;
+  }
+  
+  .colorssection{
+    color:black;
+    border: 3px solid white;
+  }
+  
+  .colorwords{
+    position:relative;
+    left: 20px;
+  }
+  
+  .pink{
+    background-color: #FFC0CB;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+  }
+
+  .PinkText{
+    position: relative;
+    top: 20px;
+  }
+
+  *{
+    font-family: monospace;
+  }
+
+  .Colorstext{
+    font-weight: 700;
+    font-size: larger;
+  }
+
+  .PurpleText{
+    color: #4b0082;
+  }
+
+  .purplecolorbox{
+    background-color: #4b0082;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+  }
+
+  .purpletext{
+    position: relative;
+    top: 20px;
+  }
+
+  .gold{
+    background-color:  #FFD700;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+  }
+
+  .goldtext{
+    position: relative;
+    top: 20px;
+  }
+
+  /* Fonts  */
+
+  .fonts{
+    color:black;
+    border: 3px solid white;
+  }
+
+  .fontwords{
+    position:relative;
+    left: 20px;
+  }
+
+  .h3robtofont{
+    font-family: "Roboto", sans-serif;;
+    position: relative;
+    left: 20px;
+    text-decoration: underline;
+  }
+  .robotofont{
+    font-family: "Roboto", sans-serif;;
+    position: relative;
+    left: 20px;
+  }
+
+  .robotofontbold{
+    font-family: "Roboto", sans-serif;;
+    position: relative;
+    left: 20px;
+    font-weight: bold;
+  }
+
+  .robtofontitalics{
+    font-family: "Roboto", sans-serif;;
+    position: relative;
+    left: 20px;
+    font-style: italic;
+
+  }
+  /* Second Font */
+
+  .movestextoverpoppins{
+    position: relative;
+    left: 20px;
+  }
+  .PoppinsText{
+  font-family: "Poppins", sans-serif;;
+  text-decoration: underline;
+  }
+
+   .PoppinsText{
+    font-family: "Poppins", sans-serif;;
+    }
+
+    .boldpoppins{
+      font-weight: bold;
+      font-size: 15px;
+    }
+
+    .italicspoppins{
+      font-style: italic;
+      font-size: 15px;
+    }
+
+    .regularpoppins{
+      font-size: 15px;
+    }
+
+    /* Third Font */
+
+    .movestextoveroswald{
+      position: relative;
+      left: 20px;
+      font-family: "Oswald", sans-serif;
+      font-size: 15px;
+    }
+
+    .oswaldtext{
+      text-decoration: underline;
+      font-family: "Oswald", sans-serif;
+    }
+
+    .oswaldbold{
+      font-weight: bold;
+    }
+
+    .oswalditalics{
+      font-style: italic;
+    }
+
+    /* Text Styles */
+
+    .textstylesborder{
+      border: 3px solid white;
+    }
+
+    .movetextovertextstyles{
+      position: relative;
+      left: 20px;
+    }
+
+h4{
+  font-weight: 700;
+  font-size: 26px;
+  font-family: "Oswald", sans-serif;
+}
+
+.paragraphtextstyle{
+  font-family: "Roboto", sans-serif;;
+  font-weight: 700;
+  font-size: 26px;
+}
+
+h6{
+  font-weight: 700;
+  font-size: 26px;
+  font-family: "Poppins", sans-serif;;
+}
